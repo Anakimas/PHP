@@ -143,4 +143,4 @@ return $totalAmount;
 }
 
 var_dump(exercise6());
-echo PHP_EOL;
+
